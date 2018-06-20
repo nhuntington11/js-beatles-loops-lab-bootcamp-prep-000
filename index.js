@@ -23,7 +23,7 @@ function johnLennonFacts(facts) {
 }
 
 function iLoveTheBeatles(number) {
-  var a = number
+  var a = number + 1
   var newList = []
   
   if (number > 15) {

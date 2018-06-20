@@ -21,3 +21,12 @@ function johnLennonFacts(facts) {
   
   return list
 }
+
+function iLoveTheBeatles(number) {
+  var a = number
+  var newList = []
+  
+  if (number > 15) {
+    number = 15
+  }
+}

@@ -32,5 +32,6 @@ function iLoveTheBeatles(number) {
   
   do {
     newList.push('I love the Beatles!')
+    number -= 1
   } while (number > 0)
 }

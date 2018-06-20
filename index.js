@@ -27,7 +27,7 @@ function iLoveTheBeatles(number) {
   var newList = []
   
   if (number > 15) {
-    number = 15
+    return newList[0] = ('I love the Beatles!')
   }
   
   do {
